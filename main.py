@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-csv_path = "jogadores_brasileirao.csv"
+csv_path = "data/brasileirao_2024.csv"
 
 if not os.path.exists(csv_path):
     raise FileNotFoundError(f"Arquivo CSV não encontrado: {csv_path}")

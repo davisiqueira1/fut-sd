@@ -15,6 +15,7 @@ data/
 docs/
 |-- data-flow.png  # Fluxograma do funcionamento do sistema
 |-- Relatório de Impacto à Proteção de Dados Pessoais.pdf  # Documentação relacionada à LGPD
+|-- Relatório Final.pdf
 
 main.py  # API Flask para servir os dados e integrar com a IA
 requirements.txt  # Lista de dependências do projeto

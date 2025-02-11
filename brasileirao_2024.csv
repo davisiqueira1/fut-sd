@@ -1,0 +1,582 @@
+﻿nome,posicao,idade,nacionalidade,valor de mercado,clube,altura,pe dominante,contrato,clube anterior,partidas,gols,assistencias,cartoes amarelos,minutos jogados
+Murilo,Centre-Back,27,Brazil,8000000,Sociedade Esportiva Palmeiras,188,right,2027-12-31,Lokomotiv Moscow,25,1,0,5,2
+Gustavo Gómez,Centre-Back,31,Paraguay,6000000,Sociedade Esportiva Palmeiras,185,right,2027-12-31,AC Milan,27,1,2,9,2
+Naves,Centre-Back,22,Brazil,2000000,Sociedade Esportiva Palmeiras,184,right,2028-12-31,SE Palmeiras São Paulo U20,11,0,0,1,733
+Luis Benedetti,Centre-Back,18,Brazil,,Sociedade Esportiva Palmeiras,197,left,2028-06-30,SE Palmeiras São Paulo U20,0,0,0,0,0
+Joaquín Piquerez,Left-Back,26,Uruguay,12000000,Sociedade Esportiva Palmeiras,184,left,2026-12-31,CA Peñarol,16,2,0,2,1
+Vanderlan,Left-Back,22,Brazil,4000000,Sociedade Esportiva Palmeiras,183,left,2028-12-31,SE Palmeiras São Paulo U20,25,0,3,0,1
+Caio Paulista,Left-Back,26,Brazil,3000000,Sociedade Esportiva Palmeiras,184,left,2028-12-31,Fluminense Football Club,24,0,0,1,1
+Agustín Giay,Right-Back,21,Argentina,7500000,Sociedade Esportiva Palmeiras,180,right,2029-12-31,CA San Lorenzo de Almagro,10,0,0,1,644
+Mayke,Right-Back,32,Brazil,3000000,Sociedade Esportiva Palmeiras,178,right,2025-12-31,Cruzeiro Esporte Clube,22,1,0,7,1
+Marcos Rocha,Right-Back,36,Brazil,350000,Sociedade Esportiva Palmeiras,176,right,2025-12-31,Clube Atlético Mineiro,28,0,2,6,1
+Aníbal Moreno,Defensive Midfield,25,Argentina,11000000,Sociedade Esportiva Palmeiras,177,right,2029-12-31,Racing Club,34,1,1,7,2
+Fabinho,Defensive Midfield,22,Brazil,5000000,Sociedade Esportiva Palmeiras,178,right,2027-12-31,SE Palmeiras São Paulo U20,19,1,0,2,503
+Emiliano Martínez,Defensive Midfield,25,Uruguay,4500000,Sociedade Esportiva Palmeiras,185,right,2029-12-31,FC Midtjylland,0,0,0,0,0
+Richard Ríos,Central Midfield,24,Colombia,14000000,Sociedade Esportiva Palmeiras,187,right,2028-12-31,Guarani Futebol Clube (SP),24,3,4,6,1
+Zé Rafael,Central Midfield,31,Brazil,4000000,Sociedade Esportiva Palmeiras,175,right,2026-12-31,Esporte Clube Bahia,18,0,2,7,951
+Figueiredo,Central Midfield,18,Brazil,,Sociedade Esportiva Palmeiras,177,right,2026-09-30,SE Palmeiras São Paulo U20,0,0,0,0,0
+Raphael Veiga,Attacking Midfield,29,Brazil,17000000,Sociedade Esportiva Palmeiras,176,left,2027-03-31,Coritiba Foot Ball Club,34,11,3,3,2
+Mauricio,Attacking Midfield,23,Brazil,10000000,Sociedade Esportiva Palmeiras,174,left,2028-12-31,Sport Club Internacional,20,3,0,1,1
+Allan,Attacking Midfield,20,Brazil,,Sociedade Esportiva Palmeiras,174,left,2027-11-21,SE Palmeiras São Paulo U20,0,0,0,0,0
+Felipe Anderson,Left Winger,31,Brazil,6000000,Sociedade Esportiva Palmeiras,175,right,2027-12-31,SS Lazio,20,2,2,0,1
+Bruno Rodrigues,Left Winger,27,Brazil,2000000,Sociedade Esportiva Palmeiras,177,right,2028-12-31,Tombense Futebol Clube (MG),0,0,0,0,0
+Estêvão,Right Winger,17,Brazil,50000000,Sociedade Esportiva Palmeiras,176,left,2026-06-30,SE Palmeiras São Paulo U20,31,13,9,4,2
+Facundo Torres,Right Winger,24,Uruguay,14000000,Sociedade Esportiva Palmeiras,177,left,2029-12-31,Orlando City SC,0,0,0,0,0
+Paulinho,Second Striker,24,Brazil,17000000,Sociedade Esportiva Palmeiras,177,right,2029-12-31,Clube Atlético Mineiro,26,8,1,3,2
+José Manuel López,Centre-Forward,24,Argentina,9000000,Sociedade Esportiva Palmeiras,190,left,2027-12-31,CA Lanús,35,10,2,8,2
+Rony,Centre-Forward,29,Brazil,7000000,Sociedade Esportiva Palmeiras,167,right,2026-12-31,Club Athletico Paranaense,35,4,2,4,1
+Luighi,Centre-Forward,18,Brazil,2000000,Sociedade Esportiva Palmeiras,182,right,2028-12-31,SE Palmeiras São Paulo U20,3,1,0,0,19
+Thalys,Centre-Forward,19,Brazil,1000000,Sociedade Esportiva Palmeiras,184,left,2028-07-15,SE Palmeiras São Paulo U20,0,0,0,0,0
+Léo Ortiz,Centre-Back,29,Brazil,11000000,CR Flamengo,185,right,2028-12-31,Red Bull Bragantino,25,1,2,2,1
+Léo Pereira,Centre-Back,29,Brazil,9000000,CR Flamengo,189,left,2027-12-31,Club Athletico Paranaense,28,0,0,6,2
+Danilo,Centre-Back,33,Brazil,4000000,CR Flamengo,184,right,2026-12-31,Juventus FC,0,0,0,0,0
+Pablo,Centre-Back,33,Brazil,900000,CR Flamengo,188,right,2025-12-31,Lokomotiv Moscow,1,0,0,0,28
+Cleiton,Centre-Back,21,Brazil,600000,CR Flamengo,194,left,2025-12-31,CR Flamengo U20,4,0,0,0,96
+Matías Viña,Left-Back,27,Uruguay,10000000,CR Flamengo,175,left,2028-12-31,AS Roma,9,0,0,1,420
+Ayrton Lucas,Left-Back,27,Brazil,8000000,CR Flamengo,180,left,2027-12-31,Spartak Moscow,32,3,3,3,2
+Alex Sandro,Left-Back,34,Brazil,1800000,CR Flamengo,180,left,2026-12-31,Juventus FC,8,0,1,1,509
+Zé Welinton,Left-Back,21,Brazil,250000,CR Flamengo,169,left,2025-12-31,,0,0,0,0,0
+Wesley,Right-Back,21,Brazil,9000000,CR Flamengo,178,right,2028-12-31,CR Flamengo U20,31,0,2,1,2
+Guillermo Varela,Right-Back,31,Uruguay,1500000,CR Flamengo,173,right,2025-12-31,Dynamo Moscow,18,1,0,2,1
+Erick Pulgar,Defensive Midfield,31,Chile,5000000,CR Flamengo,187,right,2025-12-31,ACF Fiorentina,23,0,3,5,1
+Allan,Defensive Midfield,27,Brazil,5000000,CR Flamengo,172,left,2027-12-31,Clube Atlético Mineiro,24,0,0,5,1
+Evertton Araújo,Defensive Midfield,21,Brazil,5000000,CR Flamengo,185,right,2028-12-31,Volta Redonda FC U20,16,1,0,3,800
+Caio Garcia,Defensive Midfield,20,Brazil,,CR Flamengo,175,right,2026-12-31,,0,0,0,0,0
+Gerson,Central Midfield,27,Brazil,20000000,CR Flamengo,184,left,2027-12-31,Olympique Marseille,32,3,6,3,2
+Nicolás de la Cruz,Central Midfield,27,Uruguay,18000000,CR Flamengo,167,right,2028-06-30,CA River Plate,15,2,3,3,1
+Giorgian de Arrascaeta,Attacking Midfield,30,Uruguay,14000000,CR Flamengo,174,right,2026-12-31,Cruzeiro Esporte Clube,15,5,5,3,1
+Lorran,Attacking Midfield,18,Brazil,12000000,CR Flamengo,180,left,2029-12-31,CR Flamengo U20,19,1,1,0,704
+Everton,Left Winger,28,Brazil,9000000,CR Flamengo,174,right,2026-06-30,SL Benfica,10,1,2,1,544
+Michael,Left Winger,28,Brazil,7000000,CR Flamengo,166,right,2028-12-31,Al-Hilal SFC,12,4,1,0,649
+Bruno Henrique,Left Winger,34,Brazil,1200000,CR Flamengo,184,right,2026-12-31,Santos FC,29,6,1,6,2
+Gonzalo Plata,Right Winger,24,Ecuador,6000000,CR Flamengo,178,left,2029-06-30,Al-Sadd SC,11,1,0,1,686
+Luiz Araújo,Right Winger,28,Brazil,4000000,CR Flamengo,175,left,2027-12-31,Atlanta United FC,25,4,5,3,1
+Matheus Gonçalves,Right Winger,19,Brazil,4000000,CR Flamengo,175,left,2027-12-31,CR Flamengo U20,14,2,0,1,681
+Pedro,Centre-Forward,27,Brazil,23000000,CR Flamengo,185,right,2027-12-31,: Ablöse €14.00m,21,11,5,3,1
+Juninho,Centre-Forward,28,Brazil,2000000,CR Flamengo,179,right,2028-12-31,Qarabağ FK,0,0,0,0,0
+Wallace Yan,Centre-Forward,20,Brazil,,CR Flamengo,182,right,2027-12-31,CR Flamengo U20,1,0,0,0,15
+Félix Torres,Centre-Back,28,Ecuador,4000000,Sport Club Corinthians Paulista,187,right,2027-12-31,Santos Laguna,22,0,0,3,1
+Cacá,Centre-Back,25,Brazil,3000000,Sport Club Corinthians Paulista,187,right,2028-12-31,Tokushima Vortis,26,4,1,4,2
+André Ramalho,Centre-Back,32,Brazil,2500000,Sport Club Corinthians Paulista,182,both,2026-12-31,PSV Eindhoven,18,0,1,5,1
+Gustavo Henrique,Centre-Back,31,Brazil,1000000,Sport Club Corinthians Paulista,194,right,2025-12-31,Real Valladolid CF,18,1,0,6,1
+Tchoca,Centre-Back,21,Brazil,500000,Sport Club Corinthians Paulista,192,right,2026-12-31,SC Corinthians U20,1,0,0,0,8
+Renato Santos,Centre-Back,20,Brazil,,Sport Club Corinthians Paulista,188,right,2025-12-31,SC Corinthians U20,0,0,0,0,0
+Matheus Bidu,Left-Back,25,Brazil,2500000,Sport Club Corinthians Paulista,172,left,2025-12-31,Guarani Futebol Clube (SP),23,2,1,3,1
+Diego Palacios,Left-Back,25,Ecuador,2200000,Sport Club Corinthians Paulista,169,left,2027-12-31,Los Angeles FC,0,0,0,0,0
+Hugo,Left-Back,27,Brazil,1500000,Sport Club Corinthians Paulista,179,left,2026-12-31,Goiás EC,25,0,4,3,1
+Matheuzinho,Right-Back,24,Brazil,4000000,Sport Club Corinthians Paulista,171,right,2028-12-31,CR Flamengo,31,1,1,4,2
+Léo Mana,Right-Back,20,Brazil,800000,Sport Club Corinthians Paulista,179,right,2029-12-31,SC Corinthians U20,5,0,0,1,208
+Raniele,Defensive Midfield,28,Brazil,3500000,Sport Club Corinthians Paulista,184,right,2028-12-31,Cuiabá Esporte Clube (MT),33,0,0,8,2
+José Martínez,Defensive Midfield,30,Venezuela,3000000,Sport Club Corinthians Paulista,178,right,2027-12-31,Philadelphia Union,11,0,0,5,636
+Ryan,Defensive Midfield,21,Brazil,2000000,Sport Club Corinthians Paulista,170,left,2028-12-31,SC Corinthians U20,11,0,0,2,524
+Breno Bidon,Central Midfield,19,Brazil,8000000,Sport Club Corinthians Paulista,178,left,2029-12-31,SC Corinthians U20,29,0,0,5,1
+Maycon,Central Midfield,27,Brazil,3000000,Sport Club Corinthians Paulista,175,left,2025-12-31,Shakhtar Donetsk,2,0,0,1,47
+Alex Santana,Central Midfield,29,Brazil,2000000,Sport Club Corinthians Paulista,182,right,2027-12-31,Club Athletico Paranaense,12,0,0,2,566
+Charles,Central Midfield,28,Brazil,1200000,Sport Club Corinthians Paulista,187,right,2028-12-31,FC Midtjylland,13,1,0,4,550
+Rodrigo Garro,Attacking Midfield,27,Argentina,14000000,Sport Club Corinthians Paulista,174,left,2028-12-31,CA Talleres,36,10,10,7,3
+Igor Coronado,Attacking Midfield,32,Italy,3000000,Sport Club Corinthians Paulista,170,right,2026-12-31,Al-Ittihad Club,30,1,2,6,1
+André Carrillo,Attacking Midfield,33,Peru,1200000,Sport Club Corinthians Paulista,180,right,2026-12-31,Al-Qadsiah FC,13,0,2,3,734
+Talles Magno,Left Winger,22,Brazil,7000000,Sport Club Corinthians Paulista,186,right,2025-07-01,New York City FC,14,2,1,2,484
+Ángel Romero,Left Winger,32,Paraguay,1200000,Sport Club Corinthians Paulista,176,right,2025-12-31,CD Cruz Azul,28,5,4,6,1
+Kayke,Right Winger,20,Brazil,250000,Sport Club Corinthians Paulista,176,right,2027-06-30,SC Corinthians U20,2,0,0,0,13
+Yuri Alberto,Centre-Forward,23,Brazil,14000000,Sport Club Corinthians Paulista,183,right,2027-12-31,: Ablöse free transfer,29,15,5,6,2
+Memphis Depay,Centre-Forward,30,Netherlands,10000000,Sport Club Corinthians Paulista,178,right,2026-12-31,Without Club,11,7,1,3,797
+Giovane,Centre-Forward,21,Brazil,3500000,Sport Club Corinthians Paulista,184,left,2025-06-30,Capivariano FC,11,1,0,1,268
+Pedro Raul,Centre-Forward,28,Brazil,2000000,Sport Club Corinthians Paulista,193,right,2028-12-31,Deportivo Toluca,19,0,0,2,527
+Héctor Hernández,Centre-Forward,29,Spain,1700000,Sport Club Corinthians Paulista,180,right,2026-12-31,GD Chaves,3,0,0,0,64
+Jair Cunha,Centre-Back,19,Brazil,5000000,Botafogo de Futebol e Regatas,198,both,2028-12-31,Santos FC,0,0,0,0,0
+Alexander Barboza,Centre-Back,29,Argentina,5000000,Botafogo de Futebol e Regatas,193,left,2026-12-31,Club Libertad Asunción,26,0,1,9,2
+Bastos,Centre-Back,33,Angola,1000000,Botafogo de Futebol e Regatas,184,right,2026-12-31,Al-Ahli SFC,32,3,0,6,2
+David Ricardo,Centre-Back,22,Brazil,1000000,Botafogo de Futebol e Regatas,189,left,2028-12-31,Ceará Sporting Club,0,0,0,0,0
+Philipe Sampaio,Centre-Back,30,Brazil,450000,Botafogo de Futebol e Regatas,191,right,,EA Guingamp,1,0,0,0,90
+Alex Telles,Left-Back,32,Brazil,5000000,Botafogo de Futebol e Regatas,181,left,2026-12-31,Al-Nassr FC,11,0,1,1,653
+Cuiabano,Left-Back,21,Brazil,4500000,Botafogo de Futebol e Regatas,179,left,2027-12-31,Grêmio Foot-Ball Porto Alegrense,23,4,1,5,1
+Vitinho,Right-Back,25,Brazil,6000000,Botafogo de Futebol e Regatas,174,right,2029-12-31,Burnley FC,11,0,0,0,777
+Mateo Ponte,Right-Back,21,Uruguay,1500000,Botafogo de Futebol e Regatas,183,right,2026-12-31,Danubio FC,17,3,0,4,1
+Marlon Freitas,Defensive Midfield,29,Brazil,7000000,Botafogo de Futebol e Regatas,185,right,2026-12-31,Atlético Clube Goianiense,32,0,5,6,2
+Gregore,Defensive Midfield,30,Brazil,6000000,Botafogo de Futebol e Regatas,181,right,2026-12-31,Inter Miami CF,33,3,2,8,2
+Danilo Barbosa,Defensive Midfield,28,Brazil,3000000,Botafogo de Futebol e Regatas,183,right,2025-06-30,OGC Nice,25,3,1,4,1
+Allan,Defensive Midfield,34,Brazil,3000000,Botafogo de Futebol e Regatas,175,right,2026-12-31,Al-Wahda FC,11,0,1,2,307
+Patrick de Paula,Defensive Midfield,25,Brazil,1200000,Botafogo de Futebol e Regatas,180,left,2026-12-31,Sociedade Esportiva Palmeiras,5,0,0,1,271
+Newton,Defensive Midfield,24,Brazil,250000,Botafogo de Futebol e Regatas,188,right,2027-12-31,Esporte Clube Jacuipense (BA),30,1,1,7,2
+Jefferson Savarino,Attacking Midfield,28,Venezuela,9000000,Botafogo de Futebol e Regatas,168,right,2026-12-31,Real Salt Lake City,28,8,7,3,2
+Kauê,Attacking Midfield,20,Brazil,1000000,Botafogo de Futebol e Regatas,174,right,2026-03-31,Botafogo FR U20,8,1,0,0,162
+Matheus Martins,Left Winger,21,Brazil,7000000,Botafogo de Futebol e Regatas,179,right,2028-12-31,Udinese Calcio,14,2,0,0,449
+Jeffinho,Left Winger,25,Brazil,5000000,Botafogo de Futebol e Regatas,176,right,2028-12-31,Olympique Lyon,7,1,1,2,351
+Artur,Right Winger,26,Brazil,8000000,Botafogo de Futebol e Regatas,168,left,2029-12-31,Zenit St. Petersburg,0,0,0,0,0
+Rafael Lobato,Right Winger,18,Brazil,,Botafogo de Futebol e Regatas,170,left,2025-09-30,Botafogo FR U20,0,0,0,0,0
+Igor Jesus,Centre-Forward,23,Brazil,15000000,Botafogo de Futebol e Regatas,179,right,2027-12-31,Shabab Al-Ahli Club,22,5,3,2,1
+Matheus Nascimento,Centre-Forward,20,Brazil,5000000,Botafogo de Futebol e Regatas,185,right,2025-12-31,Botafogo FR U17,1,0,0,0,25
+Rwan Cruz,Centre-Forward,23,Brazil,3500000,Botafogo de Futebol e Regatas,187,right,2028-12-31,Ludogorets Razgrad,0,0,0,0,0
+Vitão,Centre-Back,25,Brazil,9000000,Sport Club Internacional,185,right,2026-12-31,Shakhtar Donetsk,30,0,0,5,2
+Kaique Rocha,Centre-Back,23,Brazil,3000000,Sport Club Internacional,195,right,2027-12-31,Club Athletico Paranaense,29,0,1,4,2
+Clayton,Centre-Back,24,Brazil,1000000,Sport Club Internacional,187,right,2028-12-31,Avs Futebol,8,0,0,1,533
+Agustín Rogel,Centre-Back,27,Uruguay,600000,Sport Club Internacional,191,right,2025-06-30,Hertha BSC,15,0,1,1,1
+Gabriel Mercado,Centre-Back,37,Argentina,200000,Sport Club Internacional,180,right,2025-12-31,Al-Rayyan SC,17,1,0,6,1
+Victor Gabriel,Centre-Back,20,Brazil,100000,Sport Club Internacional,185,left,2025-12-31,SC Internacional U20,0,0,0,0,0
+Pedro Kauã,Centre-Back,18,Brazil,,Sport Club Internacional,193,right,,,0,0,0,0,0
+Alexandro Bernabei,Left-Back,24,Argentina,6000000,Sport Club Internacional,169,left,2028-12-31,Celtic FC,23,3,5,5,2
+Ramon,Left-Back,23,Brazil,2000000,Sport Club Internacional,179,left,2027-12-31,Olympiacos Piraeus,30,2,1,9,2
+Pablo,Left-Back,18,Brazil,,Sport Club Internacional,,left,,,0,0,0,0,0
+Nathan,Right-Back,23,Brazil,2000000,Sport Club Internacional,183,right,2025-06-30,Santos FC,1,0,0,0,4
+Braian Aguirre,Right-Back,24,Argentina,1700000,Sport Club Internacional,175,right,2027-12-31,CA Lanús,1,0,0,0,90
+Bruno Gomes,Defensive Midfield,23,Brazil,6000000,Sport Club Internacional,175,right,2027-12-31,Coritiba Foot Ball Club,30,1,2,3,2
+Thiago Maia,Defensive Midfield,27,Brazil,6000000,Sport Club Internacional,179,left,2026-12-31,CR Flamengo,27,2,4,4,1
+Fernando,Defensive Midfield,37,Brazil,1000000,Sport Club Internacional,183,right,2025-12-31,Vila Nova Futebol Clube (GO),24,1,0,7,1
+Ronaldo,Defensive Midfield,28,Brazil,700000,Sport Club Internacional,179,right,2026-12-31,Esporte Clube Juventude,13,2,2,1,1
+Luis Otávio,Defensive Midfield,17,Brazil,400000,Sport Club Internacional,181,right,2028-12-31,Sport Club Internacional Jugend,6,0,0,0,49
+Bernardo Jacob,Defensive Midfield,18,Brazil,,Sport Club Internacional,,right,,,0,0,0,0,0
+Gustavo,Defensive Midfield,18,Brazil,,Sport Club Internacional,,right,2025-08-31,,0,0,0,0,0
+Gustavo Prado,Central Midfield,19,Brazil,500000,Sport Club Internacional,179,right,2028-12-31,SC Internacional U20,28,1,0,1,645
+Bruno Henrique,Central Midfield,35,Brazil,400000,Sport Club Internacional,180,right,2025-12-31,Al-Ittihad Club,37,3,1,5,1
+Alan Patrick,Attacking Midfield,33,Brazil,3500000,Sport Club Internacional,177,right,2026-12-31,Shakhtar Donetsk,23,8,3,3,1
+Yago Noal,Attacking Midfield,18,Brazil,,Sport Club Internacional,171,right,2028-12-31,,0,0,0,0,0
+Wesley,Left Winger,25,Brazil,8000000,Sport Club Internacional,175,right,2026-12-31,Cruzeiro Esporte Clube,33,11,1,11,2
+Vitinho,Left Winger,25,Brazil,6500000,Sport Club Internacional,180,right,2025-12-31,Dynamo Kyiv,33,3,3,7,1
+Wanderson,Left Winger,30,Brazil,6000000,Sport Club Internacional,175,right,2025-12-31,FC Krasnodar,23,2,2,3,1
+Johan Carbonero,Left Winger,25,Colombia,2000000,Sport Club Internacional,170,right,2025-12-31,Racing Club,0,0,0,0,0
+Gabriel Carvalho,Right Winger,17,Brazil,12000000,Sport Club Internacional,170,right,2028-12-31,SC Internacional U20,24,1,3,3,1
+Bruno Tabata,Right Winger,27,Brazil,2500000,Sport Club Internacional,175,left,2027-12-31,Sociedade Esportiva Palmeiras,17,2,3,2,1
+Marlon,Right Winger,19,Brazil,,Sport Club Internacional,177,left,2025-06-30,,0,0,0,0,0
+Rafael Borré,Centre-Forward,29,Colombia,8000000,Sport Club Internacional,174,right,2028-12-31,Eintracht Frankfurt,23,9,3,6,1
+Enner Valencia,Centre-Forward,35,Ecuador,2000000,Sport Club Internacional,178,right,2026-06-30,Fenerbahce,24,3,1,2,953
+Lucca,Centre-Forward,21,Brazil,1000000,Sport Club Internacional,180,right,2025-12-31,SC Internacional U20,9,0,0,0,297
+Ricardo Mathias,Centre-Forward,18,Brazil,1000000,Sport Club Internacional,192,right,2028-12-31,SC Internacional U20,6,1,0,2,86
+Lucca Drummond,Centre-Forward,21,Brazil,150000,Sport Club Internacional,189,,2025-01-31,SC Internacional U20,5,0,1,0,157
+Santiago Ramos Mingo,Centre-Back,23,Argentina,4000000,Esporte Clube Bahia,186,left,2029-12-31,Defensa y Justicia,0,0,0,0,0
+Gabriel Xavier,Centre-Back,23,Brazil,3500000,Esporte Clube Bahia,190,right,2029-12-31,EC Bahia U20,35,0,0,8,3
+Kanu,Centre-Back,27,Brazil,3500000,Esporte Clube Bahia,186,right,2027-12-31,Botafogo de Futebol e Regatas,30,0,0,12,2
+David Duarte,Centre-Back,30,Brazil,1000000,Esporte Clube Bahia,193,right,2026-12-31,Fluminense Football Club,3,1,0,0,256
+Vitor Hugo,Centre-Back,33,Brazil,900000,Esporte Clube Bahia,187,left,2026-12-31,Trabzonspor,1,0,0,0,14
+Marcos Victor,Centre-Back,23,Brazil,350000,Esporte Clube Bahia,184,right,2027-12-31,Ceará Sporting Club,1,0,0,0,3
+Iago,Left-Back,27,Brazil,3500000,Esporte Clube Bahia,181,left,2028-12-31,FC Augsburg,13,0,0,0,398
+Luciano Juba,Left-Back,25,Brazil,3000000,Esporte Clube Bahia,176,left,2027-12-31,Sport Club do Recife,37,3,1,2,3
+Ryan,Left-Back,22,Brazil,500000,Esporte Clube Bahia,172,left,2025-12-31,EC Bahia U20,0,0,0,0,0
+Caio Roque,Left-Back,23,Brazil,400000,Esporte Clube Bahia,182,left,2025-12-31,Lommel SK,0,0,0,0,0
+Gilberto,Right-Back,31,Brazil,2500000,Esporte Clube Bahia,181,right,2026-06-30,SL Benfica,19,1,1,2,1
+Santiago Arias,Right-Back,33,Colombia,2200000,Esporte Clube Bahia,178,right,2025-12-31,FC Cincinnati,23,0,1,2,1
+André Dhominique,Right-Back,21,Brazil,600000,Esporte Clube Bahia,178,right,2027-09-30,EC Bahia U20,0,0,0,0,0
+Caio Alexandre,Defensive Midfield,25,Brazil,6500000,Esporte Clube Bahia,174,right,2028-12-31,Fortaleza Esporte Clube,36,2,0,6,2
+Erick,Defensive Midfield,27,Brazil,4000000,Esporte Clube Bahia,176,right,2029-12-31,Club Athletico Paranaense,34,3,1,2,2
+Nicolás Acevedo,Defensive Midfield,25,Uruguay,4000000,Esporte Clube Bahia,173,right,2029-12-31,New York City FC,8,0,0,2,262
+Rezende,Defensive Midfield,30,Brazil,800000,Esporte Clube Bahia,186,left,2026-12-31,Azuriz FC,18,0,0,3,563
+Jean Lucas,Central Midfield,26,Brazil,8000000,Esporte Clube Bahia,181,right,2028-12-31,Santos FC,36,3,6,7,2
+Rodrigo Nestor,Central Midfield,24,Brazil,8000000,Esporte Clube Bahia,175,left,2025-12-31,São Paulo Futebol Clube,25,0,2,3,976
+Yago Felipe,Central Midfield,30,Brazil,2000000,Esporte Clube Bahia,174,right,2025-12-31,Fluminense Football Club,8,0,0,3,61
+Léo Cittadini,Central Midfield,30,Brazil,1200000,Esporte Clube Bahia,179,left,2025-12-31,Club Athletico Paranaense,0,0,0,0,0
+Cauly,Attacking Midfield,29,Brazil,5500000,Esporte Clube Bahia,175,both,2028-12-31,Ludogorets Razgrad,38,4,6,1,2
+Everton Ribeiro,Attacking Midfield,35,Brazil,1800000,Esporte Clube Bahia,174,left,2025-12-31,CR Flamengo,37,2,5,4,2
+Erick Pulga,Left Winger,24,Brazil,2000000,Esporte Clube Bahia,169,right,2029-12-31,Ceará Sporting Club,0,0,0,0,0
+Michel Araújo,Left Winger,28,Uruguay,1500000,Esporte Clube Bahia,178,left,2028-12-31,São Paulo Futebol Clube,20,0,1,4,853
+Kayky,Right Winger,21,Brazil,6000000,Esporte Clube Bahia,172,left,2025-12-31,Manchester City U21,0,0,0,0,0
+Ademir,Right Winger,29,Brazil,1500000,Esporte Clube Bahia,172,left,2025-12-31,Clube Atlético Mineiro,31,3,4,0,1
+Luciano Rodríguez,Centre-Forward,21,Uruguay,7500000,Esporte Clube Bahia,179,right,2029-06-30,Liverpool FC Montevideo,19,6,1,2,893
+Willian José,Centre-Forward,33,Brazil,2000000,Esporte Clube Bahia,186,right,2026-12-31,Spartak Moscow,0,0,0,0,0
+Everaldo,Centre-Forward,33,Brazil,550000,Esporte Clube Bahia,182,right,2025-12-31,Kashima Antlers,37,8,3,6,2
+Fabrício Bruno,Centre-Back,28,Brazil,7000000,Cruzeiro Esporte Clube,192,right,2028-12-31,CR Flamengo,28,1,0,6,2
+João Marcelo,Centre-Back,24,Brazil,5500000,Cruzeiro Esporte Clube,189,right,2028-12-31,FC Porto B,31,0,2,7,2
+Lucas Villalba,Centre-Back,30,Argentina,1800000,Cruzeiro Esporte Clube,179,left,2026-12-31,AA Argentinos Juniors,23,0,0,2,1
+Jonathan Jesus,Centre-Back,20,Brazil,300000,Cruzeiro Esporte Clube,187,right,2029-06-30,Ceará Sporting Club,5,0,0,0,343
+Marlon,Left-Back,27,Brazil,5500000,Cruzeiro Esporte Clube,178,left,2026-12-31,MKE Ankaragücü,28,0,1,3,2
+Kaiki,Left-Back,21,Brazil,1500000,Cruzeiro Esporte Clube,172,left,2027-12-31,Cruzeiro EC U20,18,1,0,4,1
+William,Right-Back,29,Brazil,5000000,Cruzeiro Esporte Clube,171,right,2026-12-31,Without Club,34,5,5,8,2
+Fagner,Right-Back,35,Brazil,350000,Cruzeiro Esporte Clube,168,right,2025-12-31,Sport Club Corinthians Paulista,14,0,1,2,917
+Walace,Defensive Midfield,29,Brazil,5000000,Cruzeiro Esporte Clube,188,right,2028-12-31,Udinese Calcio,11,0,0,2,459
+Lucas Romero,Defensive Midfield,30,Argentina,2800000,Cruzeiro Esporte Clube,172,right,2025-12-31,: Ablöse €900k,33,0,2,6,2
+Fabrizio Peralta,Defensive Midfield,22,Paraguay,2000000,Cruzeiro Esporte Clube,176,right,2029-06-30,Club Cerro Porteño,9,0,0,2,271
+Lucas Silva,Defensive Midfield,31,Brazil,700000,Cruzeiro Esporte Clube,181,right,2026-12-31,Grêmio Foot-Ball Porto Alegrense,31,1,1,5,2
+Matheus Henrique,Central Midfield,27,Brazil,8000000,Cruzeiro Esporte Clube,175,right,2029-06-30,US Sassuolo,17,2,0,4,1
+Christian,Central Midfield,24,Brazil,7000000,Cruzeiro Esporte Clube,178,right,2027-12-31,Club Athletico Paranaense,24,1,0,7,1
+Japa,Central Midfield,21,Brazil,300000,Cruzeiro Esporte Clube,186,left,2027-12-31,Cruzeiro EC U20,10,0,0,1,292
+Jhosefer,Central Midfield,20,Brazil,200000,Cruzeiro Esporte Clube,170,right,2026-12-31,Cruzeiro EC U20,1,0,0,0,9
+Matheus Pereira,Attacking Midfield,28,Brazil,10000000,Cruzeiro Esporte Clube,175,left,2026-06-30,Al-Hilal SFC,34,8,7,9,2
+Eduardo,Attacking Midfield,35,Brazil,900000,Cruzeiro Esporte Clube,184,right,2025-12-31,Botafogo de Futebol e Regatas,17,2,1,1,823
+Dudu,Left Winger,33,Brazil,3000000,Cruzeiro Esporte Clube,166,right,2027-12-31,Sociedade Esportiva Palmeiras,18,0,0,0,538
+Rodriguinho,Left Winger,21,Brazil,600000,Cruzeiro Esporte Clube,170,left,2027-12-31,América Futebol Clube (MG),0,0,0,0,0
+Yannick Bolasie,Left Winger,35,DR Congo,250000,Cruzeiro Esporte Clube,185,right,2025-12-31,Criciúma Esporte Clube,34,8,4,4,2
+Marquinhos,Right Winger,21,Brazil,6000000,Cruzeiro Esporte Clube,175,left,2025-12-31,Arsenal FC,20,0,1,2,1
+Tevis,Right Winger,19,Brazil,450000,Cruzeiro Esporte Clube,180,both,2026-12-31,,5,1,0,0,143
+Gabriel Barbosa,Centre-Forward,28,Brazil,6000000,Cruzeiro Esporte Clube,178,left,2028-12-31,CR Flamengo,19,4,1,2,747
+Kaio Jorge,Centre-Forward,23,Brazil,4500000,Cruzeiro Esporte Clube,182,right,2028-12-31,Juventus FC,16,2,2,3,1
+Juan Dinenno,Centre-Forward,30,Argentina,3000000,Cruzeiro Esporte Clube,186,right,2025-12-31,UNAM Pumas,7,3,0,1,237
+Lautaro Díaz,Centre-Forward,26,Argentina,1500000,Cruzeiro Esporte Clube,181,right,2028-06-30,Independiente del Valle,18,1,0,1,961
+Júnior Alonso,Centre-Back,32,Paraguay,6000000,Clube Atlético Mineiro,185,left,2025-12-31,FC Krasnodar,12,1,0,2,1
+Lyanco,Centre-Back,28,Brazil,3000000,Clube Atlético Mineiro,187,right,2028-12-31,Southampton FC,13,0,0,6,919
+Bruno Fuchs,Centre-Back,25,Brazil,2000000,Clube Atlético Mineiro,190,right,2028-12-31,CSKA Moscow,26,0,1,7,2
+Igor Rabello,Centre-Back,29,Brazil,2000000,Clube Atlético Mineiro,190,right,2025-12-31,Botafogo de Futebol e Regatas,16,0,0,3,965
+Rômulo,Centre-Back,21,Brazil,500000,Clube Atlético Mineiro,183,right,2027-12-31,Atlético Mineiro U20,8,1,0,2,496
+Guilherme Arana,Left-Back,27,Brazil,13000000,Clube Atlético Mineiro,176,left,2027-12-31,Sevilla FC,17,1,1,5,1
+Rubens,Left-Back,23,Brazil,4000000,Clube Atlético Mineiro,178,left,2027-12-31,Atlético Mineiro U20,19,1,1,2,1
+Renzo Saravia,Right-Back,31,Argentina,2000000,Clube Atlético Mineiro,178,right,2025-12-31,Botafogo de Futebol e Regatas,31,0,0,3,2
+Natanael,Right-Back,23,Brazil,1800000,Clube Atlético Mineiro,172,right,2028-12-31,Coritiba Foot Ball Club,0,0,0,0,0
+Vitor Gabriel,Right-Back,18,Brazil,800000,Clube Atlético Mineiro,176,right,2027-12-31,Atlético Mineiro U20,0,0,0,0,0
+Fausto Vera,Defensive Midfield,24,Argentina,5000000,Clube Atlético Mineiro,180,right,2027-12-31,Sport Club Corinthians Paulista,20,2,0,1,1
+Otávio,Defensive Midfield,30,Brazil,4000000,Clube Atlético Mineiro,173,right,2026-06-30,FC Girondins Bordeaux,25,0,0,2,1
+Paulo Vitor,Defensive Midfield,20,Brazil,900000,Clube Atlético Mineiro,184,right,2027-12-31,Boston City Futebol Clube Brasil,13,0,0,4,529
+Vitinho,Defensive Midfield,20,Brazil,200000,Clube Atlético Mineiro,178,,2026-12-31,,1,0,0,0,1
+Patrick,Defensive Midfield,20,Brazil,,Clube Atlético Mineiro,187,left,2028-12-31,SE Palmeiras São Paulo U20,0,0,0,0,0
+Gabriel Menino,Central Midfield,24,Brazil,6000000,Clube Atlético Mineiro,176,right,2028-12-31,Sociedade Esportiva Palmeiras,26,1,0,6,1
+Alan Franco,Central Midfield,26,Ecuador,3500000,Clube Atlético Mineiro,176,right,2025-12-31,: Ablöse €2.10m,22,0,0,5,1
+Gustavo Scarpa,Attacking Midfield,31,Brazil,8000000,Clube Atlético Mineiro,177,left,2027-12-31,Nottingham Forest,32,4,5,5,2
+Igor Gomes,Attacking Midfield,25,Brazil,3500000,Clube Atlético Mineiro,183,right,2026-12-31,São Paulo Futebol Clube,22,1,3,8,1
+Tomás Cuello,Left Winger,24,Argentina,3000000,Clube Atlético Mineiro,176,right,2028-12-31,Club Athletico Paranaense,32,3,5,3,2
+Bernard,Left Winger,32,Brazil,1800000,Clube Atlético Mineiro,167,right,2027-12-31,Panathinaikos FC,16,0,0,1,905
+Júnior Santos,Right Winger,30,Brazil,6000000,Clube Atlético Mineiro,188,right,2028-12-31,Botafogo de Futebol e Regatas,24,4,1,2,1
+Alisson,Right Winger,19,Brazil,4500000,Clube Atlético Mineiro,183,left,2027-12-31,Atlético Mineiro U20,19,1,0,1,888
+Brahian Palacios,Right Winger,22,Colombia,1500000,Clube Atlético Mineiro,182,left,2027-12-31,Atlético Nacional,19,2,3,4,800
+Hulk,Centre-Forward,38,Brazil,1500000,Clube Atlético Mineiro,180,left,2026-12-31,Shanghai Port,24,10,5,3,1
+Deyverson,Centre-Forward,33,Brazil,700000,Clube Atlético Mineiro,187,left,2025-12-31,Cuiabá Esporte Clube (MT),17,2,1,4,1
+Cadu,Centre-Forward,20,Brazil,500000,Clube Atlético Mineiro,188,right,2027-12-31,Atlético Mineiro U20,20,3,0,1,1
+Gustavo Martins,Centre-Back,22,Brazil,3000000,Grêmio Foot-Ball Porto Alegrense,191,right,2027-12-31,Grêmio FBPA B (-2022),19,2,0,1,1
+Rodrigo Ely,Centre-Back,31,Brazil,2500000,Grêmio Foot-Ball Porto Alegrense,188,right,2025-12-31,UD Almería,21,1,0,5,1
+Natã,Centre-Back,23,Brazil,1300000,Grêmio Foot-Ball Porto Alegrense,180,right,2026-12-31,Grêmio FBPA B (-2022),11,0,0,1,504
+Jemerson,Centre-Back,32,Brazil,1200000,Grêmio Foot-Ball Porto Alegrense,184,right,2026-12-31,Clube Atlético Mineiro,13,1,0,5,1
+Walter Kannemann,Centre-Back,33,Argentina,600000,Grêmio Foot-Ball Porto Alegrense,184,left,2025-12-31,Atlas Guadalajara,13,0,2,7,1
+Mayk,Left-Back,25,Brazil,500000,Grêmio Foot-Ball Porto Alegrense,172,left,2026-12-31,Guarani Futebol Clube (SP),6,0,0,0,352
+João Pedro,Right-Back,28,Brazil,4000000,Grêmio Foot-Ball Porto Alegrense,179,right,2025-12-31,FC Porto B,32,1,4,3,2
+João Lucas,Right-Back,26,Brazil,2000000,Grêmio Foot-Ball Porto Alegrense,181,right,2028-12-31,Santos FC,30,1,6,6,2
+Igor Serrote,Right-Back,19,Brazil,800000,Grêmio Foot-Ball Porto Alegrense,180,right,,,5,0,1,0,120
+Mathías Villasanti,Defensive Midfield,28,Paraguay,10000000,Grêmio Foot-Ball Porto Alegrense,178,right,2027-12-31,Club Cerro Porteño,26,3,1,5,2
+Gustavo Cuéllar,Defensive Midfield,32,Colombia,3500000,Grêmio Foot-Ball Porto Alegrense,176,right,2026-12-31,Al-Shabab FC,0,0,0,0,0
+Ronald,Defensive Midfield,22,Brazil,2000000,Grêmio Foot-Ball Porto Alegrense,186,right,2027-12-31,Grêmio FBPA U20,11,0,0,0,39
+Dodi,Defensive Midfield,28,Brazil,700000,Grêmio Foot-Ball Porto Alegrense,169,right,2026-12-31,Santos FC,33,0,2,6,2
+Pepê,Central Midfield,27,Brazil,3000000,Grêmio Foot-Ball Porto Alegrense,183,right,2025-12-31,Cuiabá Esporte Clube (MT),26,1,0,2,1
+Edenilson,Central Midfield,35,Brazil,900000,Grêmio Foot-Ball Porto Alegrense,175,right,2025-12-31,Clube Atlético Mineiro,30,1,1,3,1
+Franco Cristaldo,Attacking Midfield,28,Argentina,10000000,Grêmio Foot-Ball Porto Alegrense,175,right,2026-12-31,CA Huracán,35,6,2,1,2
+Miguel Monsalve,Attacking Midfield,20,Colombia,6000000,Grêmio Foot-Ball Porto Alegrense,178,right,2028-12-31,Independiente Medellín,19,3,1,3,982
+Nathan,Attacking Midfield,28,Brazil,900000,Grêmio Foot-Ball Porto Alegrense,177,right,2025-12-31,Clube Atlético Mineiro,8,0,0,1,325
+Gabriel Mec,Attacking Midfield,16,Brazil,,Grêmio Foot-Ball Porto Alegrense,173,both,2027-06-30,Grêmio FBPA U20,0,0,0,0,0
+Alexander Aravena,Left Winger,22,Chile,6000000,Grêmio Foot-Ball Porto Alegrense,178,right,2028-12-31,CD Universidad Católica,16,2,2,0,775
+Francis Amuzu,Left Winger,25,Belgium,4500000,Grêmio Foot-Ball Porto Alegrense,169,right,2026-12-31,RSC Anderlecht,0,0,0,0,0
+Nathan Fernandes,Right Winger,19,Brazil,6000000,Grêmio Foot-Ball Porto Alegrense,176,right,2028-06-30,Grêmio FBPA U20,19,0,0,3,530
+Cristian Pavón,Right Winger,29,Argentina,3000000,Grêmio Foot-Ball Porto Alegrense,174,right,2026-12-31,Clube Atlético Mineiro,21,1,3,4,1
+Matías Arezo,Centre-Forward,22,Uruguay,6000000,Grêmio Foot-Ball Porto Alegrense,177,right,2028-12-31,Granada CF,10,0,0,0,102
+Martin Braithwaite,Centre-Forward,33,Denmark,3000000,Grêmio Foot-Ball Porto Alegrense,177,right,2026-06-30,RCD Espanyol Barcelona,18,8,2,2,1
+André Henrique,Centre-Forward,23,Brazil,1000000,Grêmio Foot-Ball Porto Alegrense,189,right,2026-12-31,Hercílio Luz FC,0,0,0,0,0
+Alan Franco,Centre-Back,28,Argentina,4000000,São Paulo Futebol Clube,183,right,2025-12-31,Atlanta United FC,27,0,1,6,2
+Nahuel Ferraresi,Centre-Back,26,Venezuela,3000000,São Paulo Futebol Clube,188,right,2027-12-31,Manchester City U21,14,1,1,2,899
+Ruan,Centre-Back,25,Brazil,2000000,São Paulo Futebol Clube,187,right,2025-06-30,US Sassuolo,8,0,0,1,720
+Robert Arboleda,Centre-Back,33,Ecuador,1000000,São Paulo Futebol Clube,189,right,2027-12-31,CD Universidad Católica,27,2,0,3,2
+Sabino,Centre-Back,28,Brazil,1000000,São Paulo Futebol Clube,184,left,2026-12-31,Sport Club do Recife,13,0,0,3,972
+Igão,Centre-Back,17,Brazil,,São Paulo Futebol Clube,187,right,2026-12-31,São Paulo FC U20,1,0,0,0,1
+Wendell,Left-Back,31,Brazil,4500000,São Paulo Futebol Clube,176,left,2027-12-31,FC Porto,0,0,0,0,0
+Enzo Díaz,Left-Back,29,Argentina,2500000,São Paulo Futebol Clube,167,left,2025-12-31,CA River Plate,0,0,0,0,0
+Patryck,Left-Back,22,Brazil,1800000,São Paulo Futebol Clube,184,left,2027-06-30,São Paulo FC U20,12,0,0,1,611
+Igor Vinícius,Right-Back,27,Brazil,2500000,São Paulo Futebol Clube,174,right,2025-12-31,Ituano Futebol Clube (SP),30,0,2,5,2
+Cédric Soares,Right-Back,33,Portugal,1200000,São Paulo Futebol Clube,171,right,2025-04-30,Without Club,0,0,0,0,0
+Luis Orejuela,Right-Back,29,Colombia,500000,São Paulo Futebol Clube,180,right,2025-03-31,Cruzeiro Esporte Clube,0,0,0,0,0
+Pablo Maia,Defensive Midfield,23,Brazil,12000000,São Paulo Futebol Clube,178,right,2027-12-31,São Paulo FC U20,3,0,0,0,261
+Santiago Longo,Defensive Midfield,26,Argentina,3000000,São Paulo Futebol Clube,177,right,2025-08-29,Club Atlético Belgrano,3,0,0,0,170
+Luan Santos,Defensive Midfield,25,Brazil,2000000,São Paulo Futebol Clube,175,right,2026-12-31,São Paulo FC U20,25,0,0,5,1
+Luiz Gustavo,Defensive Midfield,37,Brazil,300000,São Paulo Futebol Clube,187,left,2025-12-31,Without Club,28,2,1,3,2
+Marcos Antônio,Central Midfield,24,Brazil,3500000,São Paulo Futebol Clube,166,right,2025-06-30,SS Lazio,13,0,0,1,850
+Rodriguinho,Central Midfield,20,Brazil,3000000,São Paulo Futebol Clube,185,right,2026-12-31,São Paulo FC U20,4,0,0,0,67
+Damián Bobadilla,Central Midfield,23,Paraguay,2500000,São Paulo Futebol Clube,181,right,2027-12-31,Club Cerro Porteño,18,1,0,3,1
+Alisson,Central Midfield,31,Brazil,2000000,São Paulo Futebol Clube,174,right,2027-12-31,Grêmio Foot-Ball Porto Alegrense,21,1,2,5,1
+Liziero,Central Midfield,27,Brazil,1500000,São Paulo Futebol Clube,177,left,2025-06-30,São Paulo FC U20,9,1,0,1,296
+Oscar,Attacking Midfield,33,Brazil,4000000,São Paulo Futebol Clube,180,right,2027-12-31,Shanghai Port,0,0,0,0,0
+Matheus Alves,Attacking Midfield,19,Brazil,,São Paulo Futebol Clube,178,,2026-01-01,São Paulo FC U20,0,0,0,0,0
+Ferreirinha,Left Winger,27,Brazil,6000000,São Paulo Futebol Clube,176,right,2027-12-31,Grêmio Foot-Ball Porto Alegrense,26,5,1,4,1
+Lucas Ferreira,Left Winger,18,Brazil,,São Paulo Futebol Clube,187,left,2028-07-31,São Paulo FC U20,0,0,0,0,0
+Lucas Moura,Right Winger,32,Brazil,5000000,São Paulo Futebol Clube,172,right,2026-12-31,: Ablöse free transfer,28,10,6,4,2
+Erick,Right Winger,27,Brazil,1200000,São Paulo Futebol Clube,173,left,2026-12-31,Ceará Sporting Club,19,1,2,3,642
+Henrique Carmo,Right Winger,18,Brazil,200000,São Paulo Futebol Clube,174,left,2028-12-31,São Paulo FC U17,1,0,0,0,12
+Luciano,Second Striker,31,Brazil,2500000,São Paulo Futebol Clube,181,left,2026-12-31,Grêmio Foot-Ball Porto Alegrense,31,11,2,11,2
+André Silva,Centre-Forward,27,Brazil,3500000,São Paulo Futebol Clube,181,left,2027-12-31,Vitória Guimarães SC,30,7,2,3,1
+Jonathan Calleri,Centre-Forward,31,Argentina,3000000,São Paulo Futebol Clube,181,right,2026-12-31,Club Deportivo Maldonado,27,5,4,6,2
+Ryan Francisco,Centre-Forward,18,Brazil,,São Paulo Futebol Clube,175,left,2028-11-30,São Paulo FC U20,1,0,0,0,1
+Pedro Henrique,Centre-Back,29,Brazil,3000000,Red Bull Bragantino,188,right,2026-12-31,Club Athletico Paranaense,28,1,0,4,2
+Guzmán Rodríguez,Centre-Back,25,Uruguay,2500000,Red Bull Bragantino,185,right,2029-12-31,CA Peñarol,0,0,0,0,0
+Douglas Mendes,Centre-Back,20,Brazil,2000000,Red Bull Bragantino,189,right,2025-12-31,Red Bull Salzburg,20,2,0,2,1
+Lucas Cunha,Centre-Back,28,Brazil,1800000,Red Bull Bragantino,186,right,2026-12-31,Gil Vicente FC,11,0,0,2,779
+Eduardo,Centre-Back,27,Brazil,900000,Red Bull Bragantino,196,right,2028-12-29,SK Slavia Prague,22,1,0,5,1
+Sergio Palacios,Centre-Back,19,Colombia,900000,Red Bull Bragantino,195,right,2026-09-02,Once Caldas,1,0,0,1,29
+Luan Cândido,Left-Back,24,Brazil,6000000,Red Bull Bragantino,187,left,2026-12-31,RB Leipzig,26,1,0,5,1
+Juninho Capixaba,Left-Back,27,Brazil,3000000,Red Bull Bragantino,176,left,2027-12-31,Grêmio Foot-Ball Porto Alegrense,24,2,0,4,1
+Guilherme Lopes,Left-Back,22,Brazil,500000,Red Bull Bragantino,178,left,2025-12-31,RB Bragantino B,14,0,1,1,668
+Agustín Sant'Anna,Right-Back,27,Uruguay,2700000,Red Bull Bragantino,173,right,2027-12-31,CA River Plate,0,0,0,0,0
+José Andrés Hurtado,Right-Back,23,Ecuador,1800000,Red Bull Bragantino,178,right,2027-12-31,: Ablöse €3.10m,17,0,2,2,1
+Nathan Mendes,Right-Back,22,Brazil,1000000,Red Bull Bragantino,182,right,2028-12-31,São Paulo Futebol Clube,16,0,1,6,1
+Matheus Fernandes,Defensive Midfield,26,Brazil,2000000,Red Bull Bragantino,183,right,2027-12-31,Sociedade Esportiva Palmeiras,16,1,1,5,853
+Gabriel,Defensive Midfield,32,Brazil,1500000,Red Bull Bragantino,171,right,2025-12-31,Sport Club Internacional,20,1,2,3,1
+Eric Ramires,Central Midfield,24,Brazil,3500000,Red Bull Bragantino,172,right,2026-12-31,Esporte Clube Bahia,22,2,2,4,1
+Praxedes,Central Midfield,23,Brazil,3000000,Red Bull Bragantino,186,left,2026-06-30,Sport Club Internacional,7,0,0,0,234
+Lucas Evangelista,Central Midfield,29,Brazil,3000000,Red Bull Bragantino,181,left,2026-06-30,FC Nantes,32,2,3,4,2
+Gustavo Neves,Central Midfield,20,Brazil,2500000,Red Bull Bragantino,176,right,2027-12-31,RB Bragantino U20,27,1,3,1,944
+João Neto,Central Midfield,21,Brazil,,Red Bull Bragantino,186,right,2028-08-31,FC Famalicão U23,0,0,0,0,0
+Jhon Jhon,Attacking Midfield,22,Brazil,4500000,Red Bull Bragantino,178,right,2029-06-30,Sociedade Esportiva Palmeiras,18,3,3,3,1
+Henry Mosquera,Left Winger,23,Colombia,2000000,Red Bull Bragantino,175,right,2025-03-31,Envigado FC,34,1,2,4,1
+Vinicinho,Left Winger,20,Brazil,700000,Red Bull Bragantino,174,right,2029-03-31,Desportivo Brasil Ltda (SP) U20,19,2,0,3,712
+Lucas Barbosa,Right Winger,23,Brazil,3000000,Red Bull Bragantino,194,left,2026-07-31,Santos FC,33,7,2,12,2
+Ignacio Laquintana,Right Winger,26,Uruguay,800000,Red Bull Bragantino,173,right,2027-12-31,CA Peñarol,9,1,0,0,270
+Kawê,Right Winger,22,Brazil,300000,Red Bull Bragantino,175,right,2027-06-30,América Futebol Clube (MG),0,0,0,0,0
+Thiago Borbas,Centre-Forward,22,Uruguay,6000000,Red Bull Bragantino,186,right,2027-12-31,CA River Plate Montevideo,21,2,0,4,954
+Isidro Pitta,Centre-Forward,25,Paraguay,5500000,Red Bull Bragantino,183,right,2028-12-31,Cuiabá Esporte Clube (MT),35,7,2,5,2
+Alerrandro,Centre-Forward,25,Brazil,4000000,Red Bull Bragantino,180,right,2026-12-31,Clube Atlético Mineiro,34,15,4,4,2
+Fernando,Centre-Forward,25,Brazil,3000000,Red Bull Bragantino,176,right,2027-12-31,Red Bull Salzburg,0,0,0,0,0
+Eduardo Sasha,Centre-Forward,32,Brazil,1800000,Red Bull Bragantino,173,right,2026-12-31,Clube Atlético Mineiro,28,8,4,7,2
+Arthur Sousa,Centre-Forward,21,Brazil,800000,Red Bull Bragantino,184,right,2028-12-31,SC Corinthians B,8,0,0,1,146
+João Victor,Centre-Back,26,Brazil,5000000,Clube de Regatas Vasco da Gama,187,right,2028-12-31,SL Benfica,23,1,1,4,1
+Mauricio Lemos,Centre-Back,29,Uruguay,2500000,Clube de Regatas Vasco da Gama,187,right,2025-12-31,Clube Atlético Mineiro,8,0,0,3,381
+Lucas Oliveira,Centre-Back,29,Brazil,1700000,Clube de Regatas Vasco da Gama,187,right,2026-12-31,Cruzeiro Esporte Clube,0,0,0,0,0
+Manuel Capasso,Centre-Back,28,Argentina,1000000,Clube de Regatas Vasco da Gama,188,right,2025-12-31,Club Atlético Tucumán,0,0,0,0,0
+Lucas Freitas,Centre-Back,24,Brazil,450000,Clube de Regatas Vasco da Gama,184,left,2027-12-31,Sociedade Esportiva Palmeiras,16,0,0,1,1
+Souza,Centre-Back,36,Brazil,250000,Clube de Regatas Vasco da Gama,188,right,2025-12-31,Basaksehir FK,4,0,0,1,75
+Lucas Piton,Left-Back,24,Italy,8000000,Clube de Regatas Vasco da Gama,175,left,2028-12-31,Sport Club Corinthians Paulista,32,1,5,6,2
+Riquelme,Left-Back,22,Brazil,1200000,Clube de Regatas Vasco da Gama,173,left,2025-12-31,CR Vasco da Gama U20,0,0,0,0,0
+Victor Luís,Left-Back,31,Brazil,450000,Clube de Regatas Vasco da Gama,177,left,,Coritiba Foot Ball Club,10,1,1,3,443
+José Luis Rodríguez,Right-Back,27,Uruguay,2000000,Clube de Regatas Vasco da Gama,183,right,2025-12-31,Club Nacional,22,1,2,1,1
+Paulo Henrique,Right-Back,28,Brazil,1700000,Clube de Regatas Vasco da Gama,175,right,2027-12-31,Clube Atlético Mineiro,35,1,0,6,2
+Juan Sforza,Defensive Midfield,22,Argentina,4000000,Clube de Regatas Vasco da Gama,179,left,2028-12-31,CA Newell's Old Boys,26,1,0,3,1
+Jair,Defensive Midfield,30,Brazil,2500000,Clube de Regatas Vasco da Gama,178,right,2025-12-31,Clube Atlético Mineiro,7,0,0,2,271
+Patrick de Lucca,Defensive Midfield,24,Brazil,1600000,Clube de Regatas Vasco da Gama,180,right,2025-12-31,Esporte Clube Bahia,0,0,0,0,0
+Hugo Moura,Defensive Midfield,27,Brazil,1500000,Clube de Regatas Vasco da Gama,177,right,2026-12-31,Club Athletico Paranaense,30,1,4,8,2
+Zé Gabriel,Defensive Midfield,26,Brazil,1200000,Clube de Regatas Vasco da Gama,184,right,2025-12-31,Sport Club Internacional,14,0,0,3,450
+Mateus Carvalho,Defensive Midfield,22,Brazil,1200000,Clube de Regatas Vasco da Gama,184,left,2027-12-31,Clube Náutico Capibaribe,32,2,2,9,2
+Tchê Tchê,Central Midfield,32,Brazil,1500000,Clube de Regatas Vasco da Gama,175,both,2026-12-31,Botafogo de Futebol e Regatas,28,0,0,2,1
+Maxime Dominguez,Central Midfield,29,Switzerland,1200000,Clube de Regatas Vasco da Gama,173,left,2028-06-30,Gil Vicente FC,8,1,0,2,236
+Paulinho Paula,Central Midfield,28,Brazil,1000000,Clube de Regatas Vasco da Gama,173,right,2025-12-31,Al-Shabab FC,2,0,0,0,25
+JP,Central Midfield,19,Brazil,600000,Clube de Regatas Vasco da Gama,176,both,2027-12-31,CR Vasco da Gama U20,10,0,1,0,429
+Philippe Coutinho,Attacking Midfield,32,Brazil,6000000,Clube de Regatas Vasco da Gama,172,right,2025-06-30,Aston Villa,15,2,1,0,666
+Dimitri Payet,Attacking Midfield,37,France,1000000,Clube de Regatas Vasco da Gama,175,right,2025-06-30,Olympique Marseille,23,3,3,2,1
+Guilherme Estrella,Attacking Midfield,19,Brazil,1000000,Clube de Regatas Vasco da Gama,176,right,2026-12-31,CR Vasco da Gama U20,3,1,0,1,149
+Jean Meneses,Left Winger,31,Chile,2500000,Clube de Regatas Vasco da Gama,163,right,2026-06-30,Deportivo Toluca,6,0,0,0,291
+David,Left Winger,29,Brazil,2000000,Clube de Regatas Vasco da Gama,179,right,2027-12-31,Sport Club Internacional,23,4,3,5,1
+Rayan,Right Winger,18,Brazil,10000000,Clube de Regatas Vasco da Gama,185,left,2025-12-31,CR Vasco da Gama U20,24,1,0,2,846
+Adson,Right Winger,24,Brazil,4000000,Clube de Regatas Vasco da Gama,171,left,2027-12-31,FC Nantes,20,2,1,2,1
+Alex Teixeira,Second Striker,35,Brazil,300000,Clube de Regatas Vasco da Gama,173,right,2025-12-31,Without Club,7,1,1,0,236
+GB,Centre-Forward,20,Brazil,800000,Clube de Regatas Vasco da Gama,190,right,2028-12-31,,2,1,0,1,91
+Pablo Vegetti,Centre-Forward,36,Argentina,750000,Clube de Regatas Vasco da Gama,187,right,2025-12-31,Club Atlético Belgrano,35,12,2,7,2
+Zé Ivaldo,Centre-Back,27,Brazil,4000000,Santos FC,185,right,2025-12-31,Cruzeiro Esporte Clube,29,1,0,9,2
+Basso,Centre-Back,28,Brazil,1500000,Santos FC,187,right,2026-12-31,FC Arouca,0,0,0,0,0
+Luan Peres,Centre-Back,30,Brazil,1300000,Santos FC,190,left,2027-12-31,Fenerbahce,0,0,0,0,0
+Luisão,Centre-Back,21,Brazil,500000,Santos FC,192,right,2028-12-31,Grêmio Novorizontino,0,0,0,0,0
+Gil,Centre-Back,37,Brazil,250000,Santos FC,192,right,2025-12-31,Sport Club Corinthians Paulista,0,0,0,0,0
+Souza,Left-Back,18,Brazil,2000000,Santos FC,183,left,2028-12-31,Santos FC U20,0,0,0,0,0
+Kevyson,Left-Back,20,Brazil,800000,Santos FC,174,left,2026-12-31,Santos FC U20,0,0,0,0,0
+Gonzalo Escobar,Left-Back,27,Argentina,600000,Santos FC,171,left,2026-12-31,Fortaleza Esporte Clube,0,0,0,0,0
+Leonardo Godoy,Right-Back,29,Argentina,3500000,Santos FC,173,right,2025-12-31,Club Athletico Paranaense,26,1,2,5,1
+JP Chermont,Right-Back,19,Brazil,1500000,Santos FC,181,right,2027-12-31,Santos FC U20,0,0,0,0,0
+Hayner,Right-Back,29,Brazil,650000,Santos FC,178,right,,Azuriz FC,0,0,0,0,0
+Aderlan,Right-Back,34,Brazil,400000,Santos FC,180,right,,Red Bull Bragantino,0,0,0,0,0
+Sandry,Defensive Midfield,22,Brazil,1800000,Santos FC,174,right,2026-06-30,Santos FC U20,0,0,0,0,0
+João Schmidt,Defensive Midfield,31,Brazil,1000000,Santos FC,183,left,2025-12-31,Kawasaki Frontale,0,0,0,0,0
+Tomás Rincón,Defensive Midfield,37,Venezuela,250000,Santos FC,175,right,2026-12-31,UC Sampdoria,0,0,0,0,0
+Diego Pituca,Central Midfield,32,Brazil,1600000,Santos FC,178,left,2027-12-31,Kashima Antlers,0,0,0,0,0
+Patrick,Central Midfield,32,Brazil,1500000,Santos FC,176,left,2026-12-31,Clube Atlético Mineiro,0,0,0,0,0
+Hyan,Central Midfield,20,Brazil,100000,Santos FC,184,right,2025-12-31,Santos FC U20,0,0,0,0,0
+Álvaro Barreal,Left Midfield,24,Argentina,5000000,Santos FC,172,left,2025-12-31,FC Cincinnati,28,2,4,6,1
+Thaciano,Attacking Midfield,29,Brazil,2000000,Santos FC,182,right,2028-12-31,Esporte Clube Bahia,35,7,2,6,2
+Miguelito,Attacking Midfield,20,Bolivia,750000,Santos FC,177,left,2027-06-30,Santos FC U20,0,0,0,0,0
+Neymar,Left Winger,33,Brazil,15000000,Santos FC,175,right,2025-06-30,Al-Hilal SFC,0,0,0,0,0
+Yeferson Soteldo,Left Winger,27,Venezuela,7000000,Santos FC,160,right,2027-06-30,Tigres UANL,24,5,2,2,1
+Guilherme,Left Winger,29,Brazil,1500000,Santos FC,178,left,2026-12-31,Grêmio Foot-Ball Porto Alegrense,0,0,0,0,0
+Gabriel Veron,Right Winger,22,Brazil,7000000,Santos FC,176,right,2025-12-31,FC Porto,27,6,2,4,1
+Willian Bigode,Second Striker,38,Brazil,200000,Santos FC,171,right,,Fluminense Football Club,0,0,0,0,0
+Tiquinho Soares,Centre-Forward,34,Brazil,2000000,Santos FC,187,right,2027-12-31,Botafogo de Futebol e Regatas,28,5,3,4,1
+Julio Furch,Centre-Forward,35,Argentina,500000,Santos FC,188,right,2026-12-31,Atlas Guadalajara,0,0,0,0,0
+Ignácio,Centre-Back,28,Brazil,1200000,Fluminense Football Club,190,right,2028-06-30,Club Sporting Cristal,4,0,0,0,188
+Felipe Andrade,Centre-Back,22,Brazil,1000000,Fluminense Football Club,182,right,2025-12-31,Fluminense FC U20,6,0,0,0,157
+Juan Pablo Freytes,Centre-Back,25,Argentina,900000,Fluminense Football Club,182,left,2028-12-31,Club Alianza Lima,0,0,0,0,0
+Thiago Silva,Centre-Back,40,Brazil,800000,Fluminense Football Club,181,right,2026-06-30,Chelsea FC,15,0,0,2,1
+Manoel,Centre-Back,34,Brazil,200000,Fluminense Football Club,181,right,2025-12-31,Cruzeiro Esporte Clube,14,0,0,2,1
+Thiago Santos,Centre-Back,35,Brazil,200000,Fluminense Football Club,181,right,2025-12-31,Grêmio Foot-Ball Porto Alegrense,27,0,0,9,2
+Gabriel Fuentes,Left-Back,28,Colombia,1500000,Fluminense Football Club,180,left,2028-08-31,Junior FC,6,0,0,1,212
+Renê,Left-Back,32,Brazil,800000,Fluminense Football Club,174,left,2026-12-31,Sport Club Internacional,15,0,0,2,1
+Guga,Right-Back,26,Brazil,2000000,Fluminense Football Club,173,right,2026-12-31,Clube Atlético Mineiro,10,0,1,3,319
+Samuel Xavier,Right-Back,34,Brazil,350000,Fluminense Football Club,166,right,2025-12-31,Ceará Sporting Club,32,0,2,5,2
+Facundo Bernal,Defensive Midfield,21,Uruguay,1500000,Fluminense Football Club,187,right,2028-07-31,Defensor Sporting Club,15,0,0,6,948
+Wallace Davi,Defensive Midfield,17,Brazil,,Fluminense Football Club,185,,2027-04-30,Fluminense FC U17,0,0,0,0,0
+Martinelli,Central Midfield,23,Brazil,9000000,Fluminense Football Club,176,right,2026-12-31,Fluminense FC U20,34,1,1,9,2
+Hércules,Central Midfield,24,Brazil,6000000,Fluminense Football Club,178,right,2029-12-31,Fortaleza Esporte Clube,32,4,1,4,2
+Nonato,Central Midfield,26,Brazil,1200000,Fluminense Football Club,175,right,2025-06-30,Santos FC,10,0,1,1,292
+Renato Augusto,Central Midfield,37,Brazil,700000,Fluminense Football Club,186,right,2025-12-31,Sport Club Corinthians Paulista,17,1,1,0,429
+Victor Hugo,Central Midfield,20,Brazil,200000,Fluminense Football Club,182,right,2025-06-30,FC Cascavel (PR),5,0,0,1,103
+Gustavo Apis,Central Midfield,25,Brazil,,Fluminense Football Club,176,left,,Nova Iguaçu FC (RJ),0,0,0,0,0
+Lima,Attacking Midfield,28,Brazil,2500000,Fluminense Football Club,181,right,2025-12-31,Ceará Sporting Club,30,4,1,6,1
+Ganso,Attacking Midfield,35,Brazil,500000,Fluminense Football Club,184,left,2025-12-31,Sevilla FC,32,3,7,12,2
+Isaque,Attacking Midfield,17,Brazil,,Fluminense Football Club,172,right,2028-03-01,Fluminense FC U20,1,0,0,0,1
+Agustín Canobbio,Left Winger,26,Uruguay,4500000,Fluminense Football Club,175,right,2028-12-31,Club Athletico Paranaense,20,4,1,4,1
+Joaquín Lavega,Left Winger,20,Uruguay,2800000,Fluminense Football Club,172,left,2029-12-31,CA River Plate Montevideo,0,0,0,0,0
+Keno,Left Winger,35,Brazil,600000,Fluminense Football Club,174,right,2025-12-31,Clube Atlético Mineiro,27,1,1,4,1
+Paulo Baya,Left Winger,25,Brazil,550000,Fluminense Football Club,184,right,2025-12-31,EC Primavera,0,0,0,0,0
+Jhon Arias,Right Winger,27,Colombia,16000000,Fluminense Football Club,168,right,2028-06-30,Independiente Santa Fe,27,7,3,6,2
+Kevin Serna,Right Winger,27,Colombia,1200000,Fluminense Football Club,182,right,2027-12-31,Club Alianza Lima,16,3,2,1,876
+Riquelme,Right Winger,17,Brazil,,Fluminense Football Club,,left,,Fluminense FC U20,0,0,0,0,0
+Lelê,Centre-Forward,27,Brazil,1200000,Fluminense Football Club,189,right,2028-12-31,Itaboraí Profute FC (RJ),0,0,0,0,0
+Germán Cano,Centre-Forward,37,Argentina,1000000,Fluminense Football Club,176,right,2026-12-31,Clube de Regatas Vasco da Gama,27,4,0,6,1
+Gastón Ávila,Centre-Back,23,Argentina,4000000,Fortaleza Esporte Clube,182,left,2025-12-31,Ajax Amsterdam,0,0,0,0,0
+Benjamín Kuscevic,Centre-Back,28,Chile,2000000,Fortaleza Esporte Clube,186,right,2028-12-31,Coritiba Foot Ball Club,22,2,0,6,1
+Tomás Cardona,Centre-Back,29,Argentina,1800000,Fortaleza Esporte Clube,185,left,2026-12-31,Defensa y Justicia,17,1,0,4,1
+Marcelo Benevenuto,Centre-Back,29,Brazil,1700000,Fortaleza Esporte Clube,181,right,2026-12-31,Botafogo de Futebol e Regatas,0,0,0,0,0
+Tobias Figueiredo,Centre-Back,31,Portugal,1500000,Fortaleza Esporte Clube,188,right,2026-12-31,Hull City,25,1,0,6,2
+Emanuel Brítez,Centre-Back,32,Argentina,1000000,Fortaleza Esporte Clube,178,right,2025-12-31,Defensa y Justicia,30,0,2,10,2
+David Luiz,Centre-Back,37,Brazil,300000,Fortaleza Esporte Clube,189,right,2026-12-31,CR Flamengo,23,3,0,5,1
+Titi,Centre-Back,36,Brazil,200000,Fortaleza Esporte Clube,188,left,2025-12-31,Göztepe,23,1,0,9,2
+Felipe Jonatan,Left-Back,26,Brazil,2500000,Fortaleza Esporte Clube,176,left,2027-04-30,Santos FC,22,0,0,0,1
+Bruno Pacheco,Left-Back,33,Brazil,400000,Fortaleza Esporte Clube,175,left,2026-12-31,Ceará Sporting Club,20,1,1,4,1
+Diogo Barbosa,Left-Back,32,Brazil,350000,Fortaleza Esporte Clube,179,left,2026-12-31,Fluminense Football Club,25,0,0,6,1
+Eros Mancuso,Right-Back,25,Argentina,4000000,Fortaleza Esporte Clube,171,right,2028-08-10,Club Estudiantes de La Plata,12,1,2,3,930
+Tinga,Right-Back,31,Brazil,1200000,Fortaleza Esporte Clube,179,right,2026-04-30,Esporte Clube Bahia,29,2,1,3,2
+Zé Welison,Defensive Midfield,29,Brazil,2000000,Fortaleza Esporte Clube,177,right,2026-12-31,Clube Atlético Mineiro,21,0,1,1,879
+Lucas Sasha,Defensive Midfield,34,Brazil,300000,Fortaleza Esporte Clube,177,both,2025-12-31,Aris Thessaloniki,21,0,0,2,1
+Pedro Augusto,Central Midfield,27,Brazil,1800000,Fortaleza Esporte Clube,181,right,2026-12-31,CD Tondela,27,0,1,8,1
+Matheus Rossetto,Central Midfield,28,Brazil,1500000,Fortaleza Esporte Clube,180,right,2027-12-31,Atlanta United FC,22,0,0,3,1
+Pol Fernández,Central Midfield,33,Argentina,1300000,Fortaleza Esporte Clube,176,right,2026-12-31,CA Boca Juniors,0,0,0,0,0
+Kauan,Central Midfield,19,Brazil,1000000,Fortaleza Esporte Clube,174,right,2028-06-30,Fortaleza EC U20,3,0,0,0,52
+Tomás Pochettino,Attacking Midfield,29,Argentina,6000000,Fortaleza Esporte Clube,180,right,2025-12-31,Austin FC,32,5,6,4,1
+Calebe,Attacking Midfield,24,Brazil,2000000,Fortaleza Esporte Clube,173,left,2026-12-31,Clube Atlético Mineiro,7,0,0,1,123
+Emmanuel Martínez,Attacking Midfield,30,Argentina,1500000,Fortaleza Esporte Clube,169,right,2027-06-30,América Futebol Clube (MG),20,1,4,4,1
+Kervin Andrade,Attacking Midfield,19,Venezuela,1500000,Fortaleza Esporte Clube,163,right,2028-12-31,Deportivo La Guaira,13,1,1,2,480
+Edinho,Attacking Midfield,30,Brazil,550000,Fortaleza Esporte Clube,158,right,,Clube Atlético Mineiro,0,0,0,0,0
+Moisés,Left Winger,28,Brazil,2500000,Fortaleza Esporte Clube,177,right,2027-12-31,CD Cruz Azul,26,7,2,0,1
+Breno Lopes,Left Winger,29,Brazil,2500000,Fortaleza Esporte Clube,178,right,2028-12-31,Sociedade Esportiva Palmeiras,32,5,3,6,1
+Dylan Borrero,Left Winger,23,Colombia,2500000,Fortaleza Esporte Clube,179,right,2028-12-31,New England Revolution,0,0,0,0,0
+Yago Pikachu,Right Winger,32,Brazil,1000000,Fortaleza Esporte Clube,172,right,2025-12-31,Shimizu S-Pulse,32,2,4,7,1
+Marinho,Right Winger,34,Brazil,500000,Fortaleza Esporte Clube,169,left,2025-12-31,CR Flamengo,23,4,3,4,1
+Bruno Branco,Right Winger,19,Brazil,,Fortaleza Esporte Clube,165,left,2025-12-31,Académico de Viseu Sub-23,0,0,0,0,0
+Juan Martín Lucero,Centre-Forward,33,Argentina,1500000,Fortaleza Esporte Clube,182,right,2027-12-31,CSD Colo-Colo,32,8,3,8,2
+Renato Kayzer,Centre-Forward,28,Brazil,1000000,Fortaleza Esporte Clube,176,right,2025-12-31,Club Athletico Paranaense,28,5,1,2,1
+Thiago Galhardo,Centre-Forward,35,Brazil,500000,Fortaleza Esporte Clube,183,right,2025-12-31,Sport Club Internacional,0,0,0,0,0
+Lucas Halter,Centre-Back,24,Brazil,2500000,Esporte Clube Vitória,188,right,2025-12-31,Botafogo de Futebol e Regatas,17,1,0,4,1
+Wagner Leonardo,Centre-Back,25,Brazil,2000000,Esporte Clube Vitória,186,left,2028-12-31,Portimonense SC,36,5,0,5,3
+Zé Marcos,Centre-Back,27,Brazil,900000,Esporte Clube Vitória,188,left,2027-12-31,Esporte Clube Juventude,25,0,0,8,1
+Edu Ribeiro,Centre-Back,24,Brazil,500000,Esporte Clube Vitória,185,right,2025-12-31,Goiás EC,12,0,0,2,742
+Neris,Centre-Back,32,Brazil,500000,Esporte Clube Vitória,192,right,2026-12-31,Cruzeiro Esporte Clube,16,1,0,3,1
+Camutanga,Centre-Back,31,Brazil,450000,Esporte Clube Vitória,189,right,2025-12-31,Atlético Clube Goianiense,5,0,0,1,450
+Bruno Uvini,Centre-Back,33,Brazil,300000,Esporte Clube Vitória,187,left,2025-12-31,Grêmio Foot-Ball Porto Alegrense,6,0,0,1,428
+Hugo,Left-Back,23,Brazil,4000000,Esporte Clube Vitória,175,left,2025-12-31,Botafogo de Futebol e Regatas,9,0,1,0,441
+Lucas Esteves,Left-Back,24,Brazil,1800000,Esporte Clube Vitória,171,left,2025-12-31,Sociedade Esportiva Palmeiras,34,1,4,11,2
+Jamerson,Left-Back,26,Brazil,900000,Esporte Clube Vitória,177,left,2025-12-31,Coritiba Foot Ball Club,0,0,0,0,0
+Felipe Vieira,Left-Back,25,Brazil,250000,Esporte Clube Vitória,176,left,2026-12-31,Londrina Esporte Clube (PR),0,0,0,0,0
+Claudinho,Right-Back,24,Brazil,2000000,Esporte Clube Vitória,180,right,2027-12-31,Criciúma Esporte Clube,34,2,3,3,2
+Raúl Cáceres,Right-Back,33,Paraguay,250000,Esporte Clube Vitória,180,right,2025-12-31,Club Guaraní,23,0,3,2,1
+Caio Vinicius,Defensive Midfield,26,Brazil,1500000,Esporte Clube Vitória,187,right,2025-04-30,Fluminense Football Club,11,0,0,5,602
+Baralhas,Defensive Midfield,26,Brazil,1200000,Esporte Clube Vitória,178,right,2025-12-31,Atlético Clube Goianiense,33,1,3,9,2
+Willian Oliveira,Defensive Midfield,31,Brazil,800000,Esporte Clube Vitória,179,right,2025-12-31,Goiás EC,35,5,1,8,2
+Ricardo Ryller,Defensive Midfield,30,Brazil,650000,Esporte Clube Vitória,184,right,2025-12-31,Al-Fayha FC,19,0,1,0,1
+Ronald,Defensive Midfield,27,Brazil,500000,Esporte Clube Vitória,171,right,2025-12-31,Fortaleza Esporte Clube,30,1,2,6,1
+Val Soares,Defensive Midfield,27,Brazil,225000,Esporte Clube Vitória,176,right,2025-12-31,CS Marítimo,0,0,0,0,0
+Jean Mota,Central Midfield,31,Brazil,1000000,Esporte Clube Vitória,172,left,2026-12-31,Inter Miami CF,16,1,0,0,405
+Thiago Conti,Central Midfield,27,Brazil,250000,Esporte Clube Vitória,180,right,2025-12-31,Esporte Clube Juventude,7,0,0,1,307
+Dionísio,Central Midfield,30,Brazil,50000,Esporte Clube Vitória,172,right,2025-12-31,Alagoinhas AC,0,0,0,0,0
+Matheuzinho,Attacking Midfield,27,Brazil,3000000,Esporte Clube Vitória,165,left,2028-12-31,Ypiranga FC,33,5,5,5,2
+Pablo,Attacking Midfield,21,Brazil,100000,Esporte Clube Vitória,165,right,2027-12-31,EC Vitória U20,3,0,0,1,34
+Bruno Xavier,Attacking Midfield,28,Brazil,50000,Esporte Clube Vitória,177,left,2025-12-31,Ituano Futebol Clube (SP),0,0,0,0,0
+Lucas Braga,Left Winger,28,Brazil,1200000,Esporte Clube Vitória,184,right,2027-12-31,Santos FC,0,0,0,0,0
+Fábio Soares,Left Winger,20,Brazil,50000,Esporte Clube Vitória,178,right,,EC Vitória U20,3,0,0,0,87
+Gustavo Silva,Right Winger,27,Brazil,1500000,Esporte Clube Vitória,168,right,2026-12-31,Sport Club Corinthians Paulista,13,1,2,3,802
+Wellington Rato,Right Winger,32,Brazil,900000,Esporte Clube Vitória,172,left,2027-12-31,São Paulo Futebol Clube,25,1,5,2,1
+Carlos Eduardo,Right Winger,28,Brazil,700000,Esporte Clube Vitória,173,right,2025-12-31,Alanyaspor,17,0,2,4,873
+Osvaldo,Right Winger,37,Brazil,150000,Esporte Clube Vitória,170,right,2025-12-31,Centro Sportivo Alagoano (AL),19,2,0,1,1
+Fabri,Centre-Forward,24,Brazil,800000,Esporte Clube Vitória,186,right,2026-12-31,Levante UD,0,0,0,0,0
+Carlinhos,Centre-Forward,27,Brazil,700000,Esporte Clube Vitória,195,right,2025-12-31,CR Flamengo,13,2,0,2,418
+Janderson,Centre-Forward,25,Brazil,600000,Esporte Clube Vitória,189,both,2027-12-31,Botafogo de Futebol e Regatas,28,3,1,6,1
+Éder,Centre-Back,29,Brazil,650000,Ceará Sporting Club,184,right,2025-12-31,América Futebol Clube (MG),0,0,0,0,0
+Willian Machado,Centre-Back,28,Brazil,600000,Ceará Sporting Club,186,left,2027-12-31,Operário Ferroviário Esporte Clube (PR),0,0,0,0,0
+Gabriel Lacerda,Centre-Back,25,Brazil,550000,Ceará Sporting Club,190,right,2025-12-31,Ceará SC U20,0,0,0,0,0
+Marllon,Centre-Back,32,Brazil,450000,Ceará Sporting Club,186,right,2026-12-31,Cuiabá Esporte Clube (MT),33,1,0,4,2
+Ramon Menezes,Centre-Back,29,Brazil,400000,Ceará Sporting Club,186,right,2025-12-31,Atlético Clube Goianiense,0,0,0,0,0
+Luiz Otávio,Centre-Back,36,Brazil,100000,Ceará Sporting Club,190,right,,Angra dos Reis EC (RJ),0,0,0,0,0
+Matheus Bahia,Left-Back,25,Brazil,1300000,Ceará Sporting Club,181,left,2025-12-31,Esporte Clube Bahia,0,0,0,0,0
+Nicolas,Left-Back,27,Brazil,1200000,Ceará Sporting Club,181,left,2025-12-31,América Futebol Clube (MG),0,0,0,0,0
+Eric,Left-Back,24,Brazil,100000,Ceará Sporting Club,180,left,2025-06-30,Esporte Clube Jacuipense (BA),0,0,0,0,0
+Fabiano,Right-Back,24,Brazil,1500000,Ceará Sporting Club,175,right,2025-06-30,Moreirense FC,0,0,0,0,0
+Dieguinho,Right-Back,29,Brazil,1000000,Ceará Sporting Club,175,right,2026-12-31,Goiás EC,0,0,0,0,0
+Rafael Ramos,Right-Back,30,Portugal,500000,Ceará Sporting Club,174,right,2026-12-31,Sport Club Corinthians Paulista,0,0,0,0,0
+Richardson,Defensive Midfield,33,Brazil,250000,Ceará Sporting Club,174,right,2026-12-31,Kashiwa Reysol,0,0,0,0,0
+Fernando Sobral,Central Midfield,30,Brazil,1800000,Ceará Sporting Club,178,right,2025-12-31,Cuiabá Esporte Clube (MT),33,1,1,7,2
+Lourenço,Central Midfield,27,Brazil,1200000,Ceará Sporting Club,169,right,2025-12-31,Vila Nova Futebol Clube (GO),0,0,0,0,0
+Matheus Araújo,Attacking Midfield,22,Brazil,2000000,Ceará Sporting Club,176,right,2027-12-31,Sport Club Corinthians Paulista,4,0,0,0,40
+Rômulo,Attacking Midfield,23,Brazil,2000000,Ceará Sporting Club,177,right,2025-12-31,Sociedade Esportiva Palmeiras,9,0,0,0,171
+Jorge Recalde,Attacking Midfield,32,Paraguay,550000,Ceará Sporting Club,178,both,2025-12-31,CA Newell's Old Boys,0,0,0,0,0
+Lucas Mugni,Attacking Midfield,33,Argentina,300000,Ceará Sporting Club,184,left,2025-12-31,Esporte Clube Bahia,0,0,0,0,0
+Alejandro Martínez,Left Winger,27,Argentina,1200000,Ceará Sporting Club,170,left,2025-12-31,CA Talleres,0,0,0,0,0
+Fernandinho,Left Winger,27,Brazil,600000,Ceará Sporting Club,175,right,2026-12-31,Mirassol Futebol Clube (SP),0,0,0,0,0
+João Victor,Left Winger,20,Brazil,150000,Ceará Sporting Club,167,both,2025-12-31,Ceará SC U20,0,0,0,0,0
+Antonio Galeano,Right Winger,24,Paraguay,1500000,Ceará Sporting Club,170,right,2025-12-31,Club Nacional,0,0,0,0,0
+Pedro Henrique,Right Winger,34,Brazil,700000,Ceará Sporting Club,179,right,2025-12-31,Sport Club Corinthians Paulista,11,1,1,2,352
+Bruno Tubarão,Right Winger,29,Brazil,450000,Ceará Sporting Club,180,right,2027-01-30,Atlético Clube Goianiense,23,0,0,2,1
+Zé Neto,Right Winger,19,Brazil,,Ceará Sporting Club,,both,2025-12-31,Ceará SC U20,0,0,0,0,0
+Aylon,Centre-Forward,32,Brazil,350000,Ceará Sporting Club,180,right,2026-01-30,Grêmio Novorizontino,0,0,0,0,0
+Antônio Carlos,Centre-Back,31,Brazil,1000000,Sport Club do Recife,191,right,2025-12-31,Fluminense Football Club,13,0,0,1,1
+Rafael Thyere,Centre-Back,31,Brazil,600000,Sport Club do Recife,190,right,2025-12-31,Grêmio Foot-Ball Porto Alegrense,0,0,0,0,0
+Chico,Centre-Back,26,Brazil,600000,Sport Club do Recife,190,left,2026-12-31,Sport Recife U20,0,0,0,0,0
+Renzo,Centre-Back,23,Brazil,150000,Sport Club do Recife,186,left,2025-12-31,Sport Recife U20,0,0,0,0,0
+Marcelo Ajul,Centre-Back,22,Brazil,,Sport Club do Recife,187,right,,Sport Recife U20,0,0,0,0,0
+Dalbert,Left-Back,31,Brazil,750000,Sport Club do Recife,181,left,2025-12-31,Sport Club Internacional,0,0,0,0,0
+Igor Cariús,Left-Back,31,Brazil,400000,Sport Club do Recife,182,left,2025-12-31,Disqualification,0,0,0,0,0
+Matheus Alexandre,Right-Back,25,Brazil,1500000,Sport Club do Recife,188,right,2028-12-31,Cuiabá Esporte Clube (MT),31,1,0,6,2
+Leonel Di Plácido,Right-Back,31,Argentina,450000,Sport Club do Recife,176,right,2025-06-30,CA Lanús,0,0,0,0,0
+Hereda,Right-Back,26,Brazil,250000,Sport Club do Recife,178,right,2025-12-31,Clube de Regatas Brasil (AL),0,0,0,0,0
+Zé Lucas,Defensive Midfield,16,Brazil,,Sport Club do Recife,,,2028-02-28,,0,0,0,0,0
+Fabricio Domínguez,Central Midfield,26,Uruguay,1000000,Sport Club do Recife,177,right,2027-12-31,Racing Club,0,0,0,0,0
+Hyoran,Attacking Midfield,31,Brazil,1500000,Sport Club do Recife,174,right,2025-12-31,Sport Club Internacional,10,0,0,0,331
+Christian Ortíz,Attacking Midfield,32,Argentina,700000,Sport Club do Recife,170,right,2025-12-31,Club Tijuana,0,0,0,0,0
+Lucas Lima,Attacking Midfield,34,Brazil,550000,Sport Club do Recife,176,left,2026-12-31,Santos FC,0,0,0,0,0
+Lenny Lobato,Left Winger,24,Brazil,750000,Sport Club do Recife,174,left,2025-06-30,CA Vélez Sarsfield,0,0,0,0,0
+Gustavo Maia,Left Winger,24,Brazil,450000,Sport Club do Recife,168,right,2026-12-31,Clube Náutico Capibaribe,0,0,0,0,0
+Rodrigo Atencio,Right Winger,22,Argentina,3500000,Sport Club do Recife,175,left,2029-12-31,CA Independiente,0,0,0,0,0
+Chrystian Barletta,Right Winger,23,Brazil,1500000,Sport Club do Recife,178,left,2028-12-31,Ceará Sporting Club,0,0,0,0,0
+Carlos Alberto,Right Winger,22,Brazil,1300000,Sport Club do Recife,181,right,2029-12-31,Botafogo de Futebol e Regatas,7,1,0,0,208
+Romarinho,Right Winger,30,Brazil,1000000,Sport Club do Recife,168,right,2026-12-31,Fortaleza Esporte Clube,0,0,0,0,0
+Gustavo Coutinho,Centre-Forward,26,Brazil,1600000,Sport Club do Recife,186,right,2027-12-31,Fortaleza Esporte Clube,0,0,0,0,0
+Gonçalo Paciência,Centre-Forward,30,Portugal,1200000,Sport Club do Recife,184,right,2025-12-31,Sanfrecce Hiroshima,0,0,0,0,0
+Zé Roberto,Centre-Forward,31,Brazil,900000,Sport Club do Recife,184,right,,Ceará Sporting Club,0,0,0,0,0
+Pablo,Centre-Forward,32,Brazil,750000,Sport Club do Recife,185,right,2026-12-31,Club Athletico Paranaense,29,3,2,6,1
+Dieguinho,Centre-Forward,20,Brazil,50000,Sport Club do Recife,,,,AA Portuguesa (SP) U20,0,0,0,0,0
+Adriano Martins,Centre-Back,27,Brazil,500000,Esporte Clube Juventude,193,right,2025-12-31,Atlético Clube Goianiense,34,0,0,7,2
+Rodrigo Sam,Centre-Back,29,Brazil,350000,Esporte Clube Juventude,187,right,2025-12-31,Mirassol Futebol Clube (SP),13,1,0,4,790
+Wilker Ángel,Centre-Back,31,Venezuela,250000,Esporte Clube Juventude,190,right,2025-12-31,Criciúma Esporte Clube,13,1,0,3,986
+Cipriano,Centre-Back,22,Brazil,250000,Esporte Clube Juventude,197,left,2025-12-31,APOEL Nicosia,0,0,0,0,0
+Kawan,Centre-Back,21,Brazil,100000,Esporte Clube Juventude,188,right,2025-12-31,Botafogo FR U20,0,0,0,0,0
+Felipinho,Left-Back,28,Brazil,600000,Esporte Clube Juventude,177,left,2025-12-31,Sport Club do Recife,0,0,0,0,0
+Alan Ruschel,Left-Back,35,Brazil,175000,Esporte Clube Juventude,176,left,2025-12-31,Londrina Esporte Clube (PR),28,1,1,3,2
+Marcos Paulo,Left-Back,22,Brazil,,Esporte Clube Juventude,183,left,2025-12-31,Nova Iguaçu FC (RJ),0,0,0,0,0
+Ewerthon,Right-Back,24,Brazil,1000000,Esporte Clube Juventude,171,right,2025-12-31,Sport Club do Recife,24,1,2,1,1
+Reginaldo,Right-Back,31,Brazil,250000,Esporte Clube Juventude,174,right,2025-12-31,Ordabasy Shymkent,0,0,0,0,0
+Caíque Gonçalves,Defensive Midfield,29,Brazil,500000,Esporte Clube Juventude,178,right,2025-12-31,Ceará Sporting Club,17,0,0,5,1
+Daniel Giraldo,Defensive Midfield,32,Colombia,450000,Esporte Clube Juventude,178,right,2026-12-31,Millonarios FC,0,0,0,0,0
+Kelvi Gomes,Defensive Midfield,22,Brazil,250000,Esporte Clube Juventude,182,right,,EC Juventude U20,0,0,0,0,0
+Daniel Peixoto,Defensive Midfield,27,Brazil,100000,Esporte Clube Juventude,181,right,2025-12-31,Rio Claro Futebol Clube (SP),2,0,0,1,18
+Mandaca,Central Midfield,23,Brazil,1500000,Esporte Clube Juventude,178,right,2026-12-31,Sport Club Corinthians Paulista,30,4,2,5,1
+Jádson,Central Midfield,31,Brazil,1000000,Esporte Clube Juventude,171,right,2026-12-31,: Ablöse free transfer,33,1,5,12,2
+Dudu Vieira,Central Midfield,30,Brazil,750000,Esporte Clube Juventude,176,right,2025-12-31,Associação Atlética Ponte Preta,5,0,0,1,269
+Jean Carlos,Attacking Midfield,32,Brazil,600000,Esporte Clube Juventude,178,left,2025-12-31,Ceará Sporting Club,22,4,2,3,1
+Rafinha,Attacking Midfield,22,Brazil,200000,Esporte Clube Juventude,173,right,2025-12-31,EC Juventude U23,0,0,0,0,0
+Nenê,Attacking Midfield,43,Brazil,150000,Esporte Clube Juventude,181,left,2025-12-31,Clube de Regatas Vasco da Gama,28,3,4,4,1
+Petterson,Left Winger,21,Brazil,750000,Esporte Clube Juventude,181,right,2025-12-31,CR Flamengo,0,0,0,0,0
+Giovanny,Left Winger,27,Brazil,700000,Esporte Clube Juventude,175,right,2025-12-31,Guangxi Pingguo,0,0,0,0,0
+Ênio,Left Winger,23,Brazil,400000,Esporte Clube Juventude,168,right,2025-12-31,Amazonas FC,0,0,0,0,0
+Emerson Batalla,Right Winger,23,Colombia,750000,Esporte Clube Juventude,171,left,2025-12-31,CA Talleres,0,0,0,0,0
+Vitor Pernambuco,Right Winger,26,Brazil,,Esporte Clube Juventude,187,left,2025-12-31,Al-Dhafra FC,0,0,0,0,0
+Erick Farias,Centre-Forward,28,Brazil,1500000,Esporte Clube Juventude,174,right,2026-12-31,Ypiranga FC,35,5,3,1,2
+Gabriel Taliari,Centre-Forward,27,Brazil,600000,Esporte Clube Juventude,177,right,2026-12-31,Capivariano FC,21,2,2,1,908
+Gilberto,Centre-Forward,35,Brazil,350000,Esporte Clube Juventude,178,right,2025-12-31,Cruzeiro Esporte Clube,24,3,1,3,1
+Luiz Otávio,Centre-Back,32,Brazil,900000,Mirassol Futebol Clube (SP),194,right,2025-12-31,Esporte Clube Bahia,0,0,0,0,0
+Alan Empereur,Centre-Back,30,Brazil,750000,Mirassol Futebol Clube (SP),186,left,2025-12-31,Cuiabá Esporte Clube (MT),30,0,0,9,2
+João Victor,Centre-Back,27,Brazil,450000,Mirassol Futebol Clube (SP),188,right,2025-12-31,Esporte Clube Vitória,0,0,0,0,0
+Jemmes,Centre-Back,24,Brazil,300000,Mirassol Futebol Clube (SP),187,right,2025-12-31,Vila Nova Futebol Clube (GO),0,0,0,0,0
+David Braz,Centre-Back,37,Brazil,100000,Mirassol Futebol Clube (SP),188,right,2025-12-31,Goiás EC,0,0,0,0,0
+Da Silva,Centre-Back,24,Brazil,,Mirassol Futebol Clube (SP),192,right,,AA Aparecidense,0,0,0,0,0
+Reinaldo,Left-Back,35,Brazil,400000,Mirassol Futebol Clube (SP),178,left,2025-12-31,Grêmio Foot-Ball Porto Alegrense,29,3,1,6,2
+Zeca,Right-Back,30,Brazil,600000,Mirassol Futebol Clube (SP),169,both,2025-12-31,Esporte Clube Vitória,5,0,0,1,389
+Lucas Ramon,Right-Back,30,Brazil,400000,Mirassol Futebol Clube (SP),178,right,2025-12-31,Sport Club do Recife,0,0,0,0,0
+Daniel Borges,Right-Back,31,Brazil,400000,Mirassol Futebol Clube (SP),174,right,2025-12-31,Botafogo de Futebol e Regatas,0,0,0,0,0
+Wesley Santos,Right-Back,20,Brazil,150000,Mirassol Futebol Clube (SP),170,right,2026-12-15,Mirassol FC U20,0,0,0,0,0
+Roni,Defensive Midfield,25,Brazil,1700000,Mirassol Futebol Clube (SP),174,right,2026-12-31,Sport Club Corinthians Paulista,22,1,0,5,1
+Neto Moura,Defensive Midfield,28,Brazil,900000,Mirassol Futebol Clube (SP),176,right,2026-12-31,Cruzeiro Esporte Clube,0,0,0,0,0
+Matheus Sales,Defensive Midfield,29,Brazil,800000,Mirassol Futebol Clube (SP),178,right,,Ulsan HD FC,0,0,0,0,0
+Danielzinho,Central Midfield,30,Brazil,700000,Mirassol Futebol Clube (SP),166,right,2025-12-30,Grêmio Novorizontino,0,0,0,0,0
+José Aldo,Central Midfield,26,Brazil,500000,Mirassol Futebol Clube (SP),175,both,2025-12-31,Ituano Futebol Clube (SP),0,0,0,0,0
+Kauan,Attacking Midfield,22,Brazil,350000,Mirassol Futebol Clube (SP),172,both,2025-12-31,,0,0,0,0,0
+Chico Kim,Attacking Midfield,33,Brazil,300000,Mirassol Futebol Clube (SP),175,right,2025-12-31,Esporte Clube Juventude,0,0,0,0,0
+Gabriel,Attacking Midfield,35,Brazil,300000,Mirassol Futebol Clube (SP),178,right,2025-12-31,Centro Sportivo Alagoano (AL),0,0,0,0,0
+Clayson,Left Winger,29,Brazil,1200000,Mirassol Futebol Clube (SP),166,right,2025-12-31,Cuiabá Esporte Clube (MT),33,5,1,6,2
+Diego Gonçalves,Left Winger,30,Brazil,400000,Mirassol Futebol Clube (SP),182,right,2025-12-31,Londrina Esporte Clube (PR),10,1,0,0,183
+Guilherme Pato,Left Winger,23,Brazil,,Mirassol Futebol Clube (SP),160,right,2025-12-31,Figueirense Futebol Clube,0,0,0,0,0
+Negueba,Right Winger,25,Brazil,550000,Mirassol Futebol Clube (SP),173,right,2025-12-31,Globo FC,0,0,0,0,0
+Matheus Davó,Centre-Forward,25,Brazil,900000,Mirassol Futebol Clube (SP),178,right,2026-12-31,Cruzeiro Esporte Clube,0,0,0,0,0
+Iury Castilho,Centre-Forward,29,Brazil,750000,Mirassol Futebol Clube (SP),185,right,2025-12-31,Esporte Clube Vitória,5,1,0,1,120
+Rafa Silva,Centre-Forward,32,Brazil,350000,Mirassol Futebol Clube (SP),179,right,,Cruzeiro Esporte Clube,9,3,0,2,533
+Léo Gamalho,Centre-Forward,39,Brazil,150000,Mirassol Futebol Clube (SP),188,right,2025-12-31,Esporte Clube Vitória,1,0,0,0,16
